@@ -1,0 +1,9 @@
+Package: LiteRTNative_iOS_Gemma4_Kit
+Build Date: 2026-04-06
+Target Platform: iOS (iphoneos)
+Architecture: arm64
+Minimum iOS: 26.1
+SDK: 26.4
+
+Key upstream status note:
+LiteRT-LM README currently lists Swift language API status as "In Dev".
