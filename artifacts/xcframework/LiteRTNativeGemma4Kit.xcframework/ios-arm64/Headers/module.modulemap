@@ -1,0 +1,7 @@
+module LiteRTNativeGemma4Kit {
+  header "LiteRTNativeGemma4/LiteRTNativeGemma4.h"
+  header "litert_lm/engine.h"
+  header "litert_lm/litert_lm_logging.h"
+  export *
+}
+

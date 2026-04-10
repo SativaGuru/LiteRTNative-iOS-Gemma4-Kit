@@ -1,0 +1,8 @@
+Package: LiteRTNative_iOS_Gemma4_PublicKit
+Build Date: 2026-04-10
+Public Artifact: curated forwarded iOS closure
+Platform: iphoneos
+Architecture: arm64
+Minimum iOS: 26.1
+Wrapper API: public LiteRT-LM C API + generic Obj-C++ wrapper
+System Dependencies: AVFAudio AudioToolbox Metal libz
